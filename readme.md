@@ -1,7 +1,7 @@
 # Kerja Praktek 
 ## Implementasi Aplikasi Inventori dan Penjualan
 
-Ini adalah implementasi dari laporan kerja praktek perancangan aplikasi inventori dan penjualan
+Ini adalah implementasi dari Laporan Kerja Praktek [Perancangan Aplikasi Inventori dan Penjualan](https://github.com/nandhief/laporan)
 
 NIM | NAMA
 --- | ---
